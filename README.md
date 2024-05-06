@@ -1,4 +1,28 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Output:
+
+# Splash Screen
+![Splash](https://github.com/waleed826/NetFlix/assets/112548206/f41d58ee-eb0e-4fbe-bf14-bbf523df2705)
+
+# Profiles Screen
+![profile](https://github.com/waleed826/NetFlix/assets/112548206/76e38cd9-24e6-4c03-bb5d-cc649ce70f28)
+
+# Login Screen
+![login](https://github.com/waleed826/NetFlix/assets/112548206/5903937b-879b-4f51-b2ae-2d1e6ad742d1)
+
+# HOme Screen
+![home screen](https://github.com/waleed826/NetFlix/assets/112548206/6b080597-f842-46eb-9578-a10c06427b74)
+
+# View Screen
+![View](https://github.com/waleed826/NetFlix/assets/112548206/8b2a044a-c6a4-479a-85e4-df90e4493f42)
+
+# Web & YouTube View
+![web   youtube](https://github.com/waleed826/NetFlix/assets/112548206/7d04b0cd-2919-4883-a423-57f6578e3355)
+
+
+
+
+
 
 # Getting Started
 
